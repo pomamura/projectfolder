@@ -1,5 +1,5 @@
 ﻿urls = []
-#YOUTUBE/ニコ動などのURLを入力する。
+#取得したい動画のURLを入力する。
 urls.push("")
 
 urls.each {|url|
